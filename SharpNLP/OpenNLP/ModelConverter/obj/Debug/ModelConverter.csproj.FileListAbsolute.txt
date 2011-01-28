@@ -5,3 +5,10 @@ D:\dev\tools\SharpNLP\OpenNLP\ModelConverter\bin\Debug\SharpEntropy.pdb
 D:\dev\tools\SharpNLP\OpenNLP\ModelConverter\obj\Debug\ResolveAssemblyReference.cache
 D:\dev\tools\SharpNLP\OpenNLP\ModelConverter\obj\Debug\ModelConverter.exe
 D:\dev\tools\SharpNLP\OpenNLP\ModelConverter\obj\Debug\ModelConverter.pdb
+D:\dev\SharperNLP\SharpNLP\OpenNLP\ModelConverter\obj\Debug\ModelConverter.exe
+D:\dev\SharperNLP\SharpNLP\OpenNLP\ModelConverter\obj\Debug\ModelConverter.pdb
+D:\dev\SharperNLP\SharpNLP\OpenNLP\ModelConverter\bin\Debug\ModelConverter.exe
+D:\dev\SharperNLP\SharpNLP\OpenNLP\ModelConverter\bin\Debug\ModelConverter.pdb
+D:\dev\SharperNLP\SharpNLP\OpenNLP\ModelConverter\bin\Debug\SharpEntropy.dll
+D:\dev\SharperNLP\SharpNLP\OpenNLP\ModelConverter\bin\Debug\SharpEntropy.pdb
+D:\dev\SharperNLP\SharpNLP\OpenNLP\ModelConverter\obj\Debug\ResolveAssemblyReference.cache

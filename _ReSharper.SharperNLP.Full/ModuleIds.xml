@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="19A1DDC0-9EE7-46D1-9EA4-3F8D274FAE3F" ModuleId="ModelConverter" />
+  <Module PersistentId="BF0BF8B0-1894-4EDF-BF51-F370B063797E" ModuleId="SharpEntropy" />
+</Modules>

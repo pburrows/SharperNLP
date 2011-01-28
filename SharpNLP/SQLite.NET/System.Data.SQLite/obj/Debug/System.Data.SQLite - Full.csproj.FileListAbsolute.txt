@@ -1,0 +1,8 @@
+D:\dev\SharperNLP\SharpNLP\SQLite.NET\bin\System.Data.SQLite.dll
+D:\dev\SharperNLP\SharpNLP\SQLite.NET\bin\System.Data.SQLite.pdb
+D:\dev\SharperNLP\SharpNLP\SQLite.NET\System.Data.SQLite\obj\Debug\ResolveAssemblyReference.cache
+D:\dev\SharperNLP\SharpNLP\SQLite.NET\System.Data.SQLite\obj\Debug\System.Data.SQLite.SR.resources
+D:\dev\SharperNLP\SharpNLP\SQLite.NET\System.Data.SQLite\obj\Debug\ResGen.read.1.tlog
+D:\dev\SharperNLP\SharpNLP\SQLite.NET\System.Data.SQLite\obj\Debug\ResGen.write.1.tlog
+D:\dev\SharperNLP\SharpNLP\SQLite.NET\System.Data.SQLite\obj\Debug\System.Data.SQLite.dll
+D:\dev\SharperNLP\SharpNLP\SQLite.NET\System.Data.SQLite\obj\Debug\System.Data.SQLite.pdb
