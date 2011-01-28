@@ -1,0 +1,39 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="A4FA73C1-2527-4EF9-ACFE-3072386100DC/d:Delegates/f:Delegates.cs" caret="0" fromTop="0" />
+      <File id="A4FA73C1-2527-4EF9-ACFE-3072386100DC/f:ShapeBase.cs" caret="0" fromTop="0" />
+      <File id="A4FA73C1-2527-4EF9-ACFE-3072386100DC/f:GraphAbstract.cs" caret="0" fromTop="0" />
+      <File id="A4FA73C1-2527-4EF9-ACFE-3072386100DC/f:Entity.cs" caret="0" fromTop="0" />
+      <File id="19A1DDC0-9EE7-46D1-9EA4-3F8D274FAE3F/f:Converter.cs" caret="0" fromTop="0" />
+      <File id="EFDF4714-3781-4B07-8955-C4AC2A74C89E/f:App.config" caret="58" fromTop="2" />
+      <File id="B70185DF-81FD-4417-914F-7C90E65E7D9F/d:Tools/d:PosTagger/f:DefaultPosContextGenerator.cs" caret="7530" fromTop="37" />
+      <File id="B70185DF-81FD-4417-914F-7C90E65E7D9F/d:Tools/d:PosTagger/f:EnglishMaximumEntropyPosTagger.cs" caret="960" fromTop="0" />
+      <File id="B70185DF-81FD-4417-914F-7C90E65E7D9F/d:Tools/d:PosTagger/f:MaximumEntropyPosTagger.cs" caret="1025" fromTop="0" />
+      <File id="B70185DF-81FD-4417-914F-7C90E65E7D9F/d:Tools/d:PosTagger/f:PosEventReader.cs" caret="997" fromTop="0" />
+      <File id="B70185DF-81FD-4417-914F-7C90E65E7D9F/d:Tools/d:PosTagger/f:PosLookupList.cs" caret="2760" fromTop="65" />
+      <File id="B70185DF-81FD-4417-914F-7C90E65E7D9F/d:Tools/d:PosTagger/f:PosLookupListWriter.cs" caret="972" fromTop="0" />
+      <File id="B70185DF-81FD-4417-914F-7C90E65E7D9F/d:Tools/d:PosTagger/f:IPosTagger.cs" caret="914" fromTop="0" />
+      <File id="EFDF4714-3781-4B07-8955-C4AC2A74C89E/f:MainForm.cs" caret="12668" fromTop="21" />
+      <File id="BF0BF8B0-1894-4EDF-BF51-F370B063797E/d:IO/f:BinaryGisModelReader.cs" caret="3496" fromTop="15" />
+      <File id="B70185DF-81FD-4417-914F-7C90E65E7D9F/d:Tools/d:Chunker/f:EnglishTreebankChunker.cs" caret="0" fromTop="0" />
+      <File id="B70185DF-81FD-4417-914F-7C90E65E7D9F/d:Tools/d:Chunker/f:DefaultChunkerContextGenerator.cs" caret="0" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="EFDF4714-3781-4B07-8955-C4AC2A74C89E/f:App.config" caret="155" fromTop="3" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+</Configuration>

@@ -1,0 +1,73 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{E27B1B1E-19C0-45E8-AA74-B6E1C041A130}"
+	ProjectSection(ProjectDependencies) = postProject
+		{AC139952-261A-4463-B6FA-AEBC25283A66} = {AC139952-261A-4463-B6FA-AEBC25283A66}
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{39A3B743-1EBD-4CC0-8E37-ACE3DD38B1C0}"
+	ProjectSection(SolutionItems) = preProject
+		bin\tools\mergebin.exe = bin\tools\mergebin.exe
+		readme.htm = readme.htm
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "System.Data.SQLite - Full", "System.Data.SQLite\System.Data.SQLite - Full.csproj", "{AC139952-261A-4463-B6FA-AEBC25283A66}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs01.codeplex.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = System.Data.SQLite\\System.Data.SQLite\u0020-\u0020Full.csproj
+		SccProjectName1 = System.Data.SQLite
+		SccLocalPath1 = System.Data.SQLite
+		SccProjectUniqueName2 = test\\test.csproj
+		SccProjectName2 = test
+		SccLocalPath2 = test
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Compact Framework = Debug|Compact Framework
+		Debug|Itanium = Debug|Itanium
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Compact Framework = Release|Compact Framework
+		Release|Itanium = Release|Itanium
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E27B1B1E-19C0-45E8-AA74-B6E1C041A130}.Debug|Compact Framework.ActiveCfg = Debug|Any CPU
+		{E27B1B1E-19C0-45E8-AA74-B6E1C041A130}.Debug|Itanium.ActiveCfg = Debug|Itanium
+		{E27B1B1E-19C0-45E8-AA74-B6E1C041A130}.Debug|Itanium.Build.0 = Debug|Itanium
+		{E27B1B1E-19C0-45E8-AA74-B6E1C041A130}.Debug|Win32.ActiveCfg = Debug|x86
+		{E27B1B1E-19C0-45E8-AA74-B6E1C041A130}.Debug|Win32.Build.0 = Debug|x86
+		{E27B1B1E-19C0-45E8-AA74-B6E1C041A130}.Debug|x64.ActiveCfg = Debug|x64
+		{E27B1B1E-19C0-45E8-AA74-B6E1C041A130}.Debug|x64.Build.0 = Debug|x64
+		{E27B1B1E-19C0-45E8-AA74-B6E1C041A130}.Release|Compact Framework.ActiveCfg = Release|Any CPU
+		{E27B1B1E-19C0-45E8-AA74-B6E1C041A130}.Release|Itanium.ActiveCfg = Release|Itanium
+		{E27B1B1E-19C0-45E8-AA74-B6E1C041A130}.Release|Itanium.Build.0 = Release|Itanium
+		{E27B1B1E-19C0-45E8-AA74-B6E1C041A130}.Release|Win32.ActiveCfg = Release|x86
+		{E27B1B1E-19C0-45E8-AA74-B6E1C041A130}.Release|Win32.Build.0 = Release|x86
+		{E27B1B1E-19C0-45E8-AA74-B6E1C041A130}.Release|x64.ActiveCfg = Release|x64
+		{E27B1B1E-19C0-45E8-AA74-B6E1C041A130}.Release|x64.Build.0 = Release|x64
+		{AC139952-261A-4463-B6FA-AEBC25283A66}.Debug|Compact Framework.ActiveCfg = Debug|Any CPU
+		{AC139952-261A-4463-B6FA-AEBC25283A66}.Debug|Itanium.ActiveCfg = Debug|Any CPU
+		{AC139952-261A-4463-B6FA-AEBC25283A66}.Debug|Itanium.Build.0 = Debug|Any CPU
+		{AC139952-261A-4463-B6FA-AEBC25283A66}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{AC139952-261A-4463-B6FA-AEBC25283A66}.Debug|Win32.Build.0 = Debug|Any CPU
+		{AC139952-261A-4463-B6FA-AEBC25283A66}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{AC139952-261A-4463-B6FA-AEBC25283A66}.Debug|x64.Build.0 = Debug|Any CPU
+		{AC139952-261A-4463-B6FA-AEBC25283A66}.Release|Compact Framework.ActiveCfg = Debug|Any CPU
+		{AC139952-261A-4463-B6FA-AEBC25283A66}.Release|Itanium.ActiveCfg = Release|Any CPU
+		{AC139952-261A-4463-B6FA-AEBC25283A66}.Release|Itanium.Build.0 = Release|Any CPU
+		{AC139952-261A-4463-B6FA-AEBC25283A66}.Release|Win32.ActiveCfg = Release|Any CPU
+		{AC139952-261A-4463-B6FA-AEBC25283A66}.Release|Win32.Build.0 = Release|Any CPU
+		{AC139952-261A-4463-B6FA-AEBC25283A66}.Release|x64.ActiveCfg = Release|Any CPU
+		{AC139952-261A-4463-B6FA-AEBC25283A66}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

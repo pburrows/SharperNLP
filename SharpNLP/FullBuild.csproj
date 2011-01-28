@@ -1,0 +1,19 @@
+<Project DefaultTargets = "FullBuild" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+
+    <ItemGroup>
+        <ProjectReferences Include="SQLite.NET\System.Data.SQLite\System.Data.SQLite - Full.csproj" />
+        <ProjectReferences Include="SQLite.NET\test\test.csproj" />
+        <ProjectReferences Include="SharpEntropy\SharpEntropy.csproj" />
+        <ProjectReferences Include="SharpEntropy\SharpEntropySqlite\SharpEntropySqlite.csproj" />
+        <ProjectReferences Include="OpenNLP\SharpWordNet\SharpWordNet.csproj" />
+        <ProjectReferences Include="OpenNLP\OpenNLP\OpenNLP.csproj" />
+        <ProjectReferences Include="OpenNLP\ModelConverter\ModelConverter.csproj" />
+        <ProjectReferences Include="OpenNLP\ParseTree\ParseTree.csproj" />
+        <ProjectReferences Include="OpenNLP\ToolsExample\ToolsExample.csproj" />
+
+    </ItemGroup>
+    <Target Name="FullBuild">
+    <MSBuild Projects="@(ProjectReferences)" Targets="Build" />
+     </Target>
+        
+</Project>

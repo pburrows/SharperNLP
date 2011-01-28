@@ -1,0 +1,10 @@
+..\bin\System.Data.SQLite.dll
+..\bin\System.Data.SQLite.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\System.Data.SQLite.SQLiteCommand.bmp
+obj\Debug\System.Data.SQLite.SQLiteConnection.bmp
+obj\Debug\System.Data.SQLite.SQLiteDataAdapter.bmp
+obj\Debug\System.Data.SQLite.SR.resources
+obj\Debug\System.Data.SQLite - Full.csproj.GenerateResource.Cache
+obj\Debug\System.Data.SQLite.dll
+obj\Debug\System.Data.SQLite.pdb

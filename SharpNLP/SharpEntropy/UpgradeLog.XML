@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SharpEntropy">
+</Property><Property Name="Solution File" Value="D:\dev\tools\SharpNLP\SharpEntropy\SharpEntropy.sln">
+</Property><Property Name="Date" Value="Thursday, June 10, 2010">
+</Property><Property Name="Time" Value="21:29:27 PM">
+</Property></Properties><Event ErrorLevel="0" Project="SharpEntropy" Source="SharpEntropy.csproj" Description="Project file successfully backed up as D:\dev\tools\SharpNLP\SharpEntropy\Backup\SharpEntropy.csproj">
+</Event><Event ErrorLevel="0" Project="SharpEntropy" Source="AbstractDataIndexer.cs" Description="File successfully backed up as D:\dev\tools\SharpNLP\SharpEntropy\Backup\AbstractDataIndexer.cs">
+</Event><Event ErrorLevel="0" Project="SharpEntropy" Source="AssemblyInfo.cs" Description="File successfully backed up as D:\dev\tools\SharpNLP\SharpEntropy\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="SharpEntropy" Source="BasicContextGenerator.cs" Description="File successfully backed up as D:\dev\tools\SharpNLP\SharpEntropy\Backup\BasicContextGenerator.cs">
+</Event><Event ErrorLevel="0" Project="SharpEntropy" Source="BasicEventReader.cs" Description="File successfully backed up as D:\dev\tools\SharpNLP\SharpEntropy\Backup\BasicEventReader.cs">
+</Event><Event ErrorLevel="0" Project="SharpEntropy" Source="ComparableEvent.cs" Description="File successfully backed up as D:\dev\tools\SharpNLP\SharpEntropy\Backup\ComparableEvent.cs">
+</Event><Event ErrorLevel="0" Project="SharpEntropy" Source="GisModel.cs" Description="File successfully backed up as D:\dev\tools\SharpNLP\SharpEntropy\Backup\GisModel.cs">
+</Event><Event ErrorLevel="0" Project="SharpEntropy" Source="GisTrainer.cs" Description="File successfully backed up as D:\dev\tools\SharpNLP\SharpEntropy\Backup\GisTrainer.cs">
+</Event><Event ErrorLevel="0" Project="SharpEntropy" Source="IContextGenerator.cs" Description="File successfully backed up as D:\dev\tools\SharpNLP\SharpEntropy\Backup\IContextGenerator.cs">
+</Event><Event ErrorLevel="0" Project="SharpEntropy" Source="IMaximumEntropyModel.cs" Description="File successfully backed up as D:\dev\tools\SharpNLP\SharpEntropy\Backup\IMaximumEntropyModel.cs">
+</Event><Event ErrorLevel="0" Project="SharpEntropy" Source="IO\BinaryGisModelReader.cs" Description="File successfully backed up as D:\dev\tools\SharpNLP\SharpEntropy\Backup\IO\BinaryGisModelReader.cs">
+</Event><Event ErrorLevel="0" Project="SharpEntropy" Source="IO\BinaryGisModelWriter.cs" Description="File successfully backed up as D:\dev\tools\SharpNLP\SharpEntropy\Backup\IO\BinaryGisModelWriter.cs">
+</Event><Event ErrorLevel="0" Project="SharpEntropy" Source="IO\GisModelReader.cs" Description="File successfully backed up as D:\dev\tools\SharpNLP\SharpEntropy\Backup\IO\GisModelReader.cs">
+</Event><Event ErrorLevel="0" Project="SharpEntropy" Source="IO\GisModelWriter.cs" Description="File successfully backed up as D:\dev\tools\SharpNLP\SharpEntropy\Backup\IO\GisModelWriter.cs">
+</Event><Event ErrorLevel="0" Project="SharpEntropy" Source="IO\IGisModelReader.cs" Description="File successfully backed up as D:\dev\tools\SharpNLP\SharpEntropy\Backup\IO\IGisModelReader.cs">
+</Event><Event ErrorLevel="0" Project="SharpEntropy" Source="IO\JavaBinaryGisModelReader.cs" Description="File successfully backed up as D:\dev\tools\SharpNLP\SharpEntropy\Backup\IO\JavaBinaryGisModelReader.cs">
+</Event><Event ErrorLevel="0" Project="SharpEntropy" Source="IO\JavaBinaryGisModelWriter.cs" Description="File successfully backed up as D:\dev\tools\SharpNLP\SharpEntropy\Backup\IO\JavaBinaryGisModelWriter.cs">
+</Event><Event ErrorLevel="0" Project="SharpEntropy" Source="IO\PlainTextGisModelReader.cs" Description="File successfully backed up as D:\dev\tools\SharpNLP\SharpEntropy\Backup\IO\PlainTextGisModelReader.cs">
+</Event><Event ErrorLevel="0" Project="SharpEntropy" Source="IO\PlainTextGisModelWriter.cs" Description="File successfully backed up as D:\dev\tools\SharpNLP\SharpEntropy\Backup\IO\PlainTextGisModelWriter.cs">
+</Event><Event ErrorLevel="0" Project="SharpEntropy" Source="ITrainingDataIndexer.cs" Description="File successfully backed up as D:\dev\tools\SharpNLP\SharpEntropy\Backup\ITrainingDataIndexer.cs">
+</Event><Event ErrorLevel="0" Project="SharpEntropy" Source="ITrainingDataReader.cs" Description="File successfully backed up as D:\dev\tools\SharpNLP\SharpEntropy\Backup\ITrainingDataReader.cs">
+</Event><Event ErrorLevel="0" Project="SharpEntropy" Source="ITrainingEventReader.cs" Description="File successfully backed up as D:\dev\tools\SharpNLP\SharpEntropy\Backup\ITrainingEventReader.cs">
+</Event><Event ErrorLevel="0" Project="SharpEntropy" Source="OnePassDataIndexer.cs" Description="File successfully backed up as D:\dev\tools\SharpNLP\SharpEntropy\Backup\OnePassDataIndexer.cs">
+</Event><Event ErrorLevel="0" Project="SharpEntropy" Source="PatternedPredicate.cs" Description="File successfully backed up as D:\dev\tools\SharpNLP\SharpEntropy\Backup\PatternedPredicate.cs">
+</Event><Event ErrorLevel="0" Project="SharpEntropy" Source="PlainTextByLineDataReader.cs" Description="File successfully backed up as D:\dev\tools\SharpNLP\SharpEntropy\Backup\PlainTextByLineDataReader.cs">
+</Event><Event ErrorLevel="0" Project="SharpEntropy" Source="TrainingEvent.cs" Description="File successfully backed up as D:\dev\tools\SharpNLP\SharpEntropy\Backup\TrainingEvent.cs">
+</Event><Event ErrorLevel="0" Project="SharpEntropy" Source="TwoPassDataIndexer.cs" Description="File successfully backed up as D:\dev\tools\SharpNLP\SharpEntropy\Backup\TwoPassDataIndexer.cs">
+</Event><Event ErrorLevel="0" Project="SharpEntropy" Source="SharpEntropy.ndoc" Description="File successfully backed up as D:\dev\tools\SharpNLP\SharpEntropy\Backup\SharpEntropy.ndoc">
+</Event><Event ErrorLevel="1" Project="SharpEntropy" Source="SharpEntropy.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="SharpEntropy" Source="SharpEntropy.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SharpEntropy" Source="SharpEntropy.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SharpEntropy" Source="SharpEntropy.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

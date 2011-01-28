@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SharpWordNet">
+</Property><Property Name="Solution File" Value="D:\dev\tools\SharpNLP\OpenNLP\SharpWordNet\SharpWordNet.sln">
+</Property><Property Name="Date" Value="Monday, June 21, 2010">
+</Property><Property Name="Time" Value="13:35 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="SharpWordNet.sln" Description="File successfully backed up as D:\dev\tools\SharpNLP\OpenNLP\SharpWordNet\Backup\SharpWordNet.sln">
+</Event><Event ErrorLevel="0" Project="SharpWordNet" Source="SharpWordNet.csproj" Description="Project file successfully backed up as D:\dev\tools\SharpNLP\OpenNLP\SharpWordNet\Backup\SharpWordNet.csproj">
+</Event><Event ErrorLevel="0" Project="SharpWordNet" Source="AssemblyInfo.cs" Description="File successfully backed up as D:\dev\tools\SharpNLP\OpenNLP\SharpWordNet\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="SharpWordNet" Source="DataFileEngine.cs" Description="File successfully backed up as D:\dev\tools\SharpNLP\OpenNLP\SharpWordNet\Backup\DataFileEngine.cs">
+</Event><Event ErrorLevel="0" Project="SharpWordNet" Source="IndexWord.cs" Description="File successfully backed up as D:\dev\tools\SharpNLP\OpenNLP\SharpWordNet\Backup\IndexWord.cs">
+</Event><Event ErrorLevel="0" Project="SharpWordNet" Source="Morph\AbstractDelegatingOperation.cs" Description="File successfully backed up as D:\dev\tools\SharpNLP\OpenNLP\SharpWordNet\Backup\Morph\AbstractDelegatingOperation.cs">
+</Event><Event ErrorLevel="0" Project="SharpWordNet" Source="Morph\DetachSuffixesOperation.cs" Description="File successfully backed up as D:\dev\tools\SharpNLP\OpenNLP\SharpWordNet\Backup\Morph\DetachSuffixesOperation.cs">
+</Event><Event ErrorLevel="0" Project="SharpWordNet" Source="Morph\IOperation.cs" Description="File successfully backed up as D:\dev\tools\SharpNLP\OpenNLP\SharpWordNet\Backup\Morph\IOperation.cs">
+</Event><Event ErrorLevel="0" Project="SharpWordNet" Source="Morph\LookupExceptionsOperation.cs" Description="File successfully backed up as D:\dev\tools\SharpNLP\OpenNLP\SharpWordNet\Backup\Morph\LookupExceptionsOperation.cs">
+</Event><Event ErrorLevel="0" Project="SharpWordNet" Source="Morph\LookupIndexWordOperation.cs" Description="File successfully backed up as D:\dev\tools\SharpNLP\OpenNLP\SharpWordNet\Backup\Morph\LookupIndexWordOperation.cs">
+</Event><Event ErrorLevel="0" Project="SharpWordNet" Source="Morph\TokenizerOperation.cs" Description="File successfully backed up as D:\dev\tools\SharpNLP\OpenNLP\SharpWordNet\Backup\Morph\TokenizerOperation.cs">
+</Event><Event ErrorLevel="0" Project="SharpWordNet" Source="Morph\Util.cs" Description="File successfully backed up as D:\dev\tools\SharpNLP\OpenNLP\SharpWordNet\Backup\Morph\Util.cs">
+</Event><Event ErrorLevel="0" Project="SharpWordNet" Source="Relation.cs" Description="File successfully backed up as D:\dev\tools\SharpNLP\OpenNLP\SharpWordNet\Backup\Relation.cs">
+</Event><Event ErrorLevel="0" Project="SharpWordNet" Source="RelationType.cs" Description="File successfully backed up as D:\dev\tools\SharpNLP\OpenNLP\SharpWordNet\Backup\RelationType.cs">
+</Event><Event ErrorLevel="0" Project="SharpWordNet" Source="Synset.cs" Description="File successfully backed up as D:\dev\tools\SharpNLP\OpenNLP\SharpWordNet\Backup\Synset.cs">
+</Event><Event ErrorLevel="0" Project="SharpWordNet" Source="Tokenizer.cs" Description="File successfully backed up as D:\dev\tools\SharpNLP\OpenNLP\SharpWordNet\Backup\Tokenizer.cs">
+</Event><Event ErrorLevel="0" Project="SharpWordNet" Source="WordNetEngine.cs" Description="File successfully backed up as D:\dev\tools\SharpNLP\OpenNLP\SharpWordNet\Backup\WordNetEngine.cs">
+</Event><Event ErrorLevel="0" Project="SharpWordNet" Source="SharpWordNet.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="SharpWordNet" Source="SharpWordNet.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="TestHarness" Source="TestHarness\TestHarness.csproj" Description="Project file successfully backed up as D:\dev\tools\SharpNLP\OpenNLP\SharpWordNet\Backup\TestHarness\TestHarness.csproj">
+</Event><Event ErrorLevel="0" Project="TestHarness" Source="TestHarness\AssemblyInfo.cs" Description="File successfully backed up as D:\dev\tools\SharpNLP\OpenNLP\SharpWordNet\Backup\TestHarness\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="TestHarness" Source="TestHarness\WordNetBrowser.cs" Description="File successfully backed up as D:\dev\tools\SharpNLP\OpenNLP\SharpWordNet\Backup\TestHarness\WordNetBrowser.cs">
+</Event><Event ErrorLevel="0" Project="TestHarness" Source="TestHarness\App.ico" Description="File successfully backed up as D:\dev\tools\SharpNLP\OpenNLP\SharpWordNet\Backup\TestHarness\App.ico">
+</Event><Event ErrorLevel="0" Project="TestHarness" Source="TestHarness\WordNetBrowser.resx" Description="File successfully backed up as D:\dev\tools\SharpNLP\OpenNLP\SharpWordNet\Backup\TestHarness\WordNetBrowser.resx">
+</Event><Event ErrorLevel="0" Project="TestHarness" Source="TestHarness\TestHarness.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TestHarness" Source="TestHarness\TestHarness.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SharpWordNet.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SharpWordNet.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TestHarness" Source="TestHarness\TestHarness.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

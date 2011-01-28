@@ -1,0 +1,7 @@
+D:\dev\tools\SharpNLP\OpenNLP\Lithium\bin\Debug\Lithium.dll
+D:\dev\tools\SharpNLP\OpenNLP\Lithium\bin\Debug\Lithium.pdb
+D:\dev\tools\SharpNLP\OpenNLP\Lithium\obj\Debug\ResolveAssemblyReference.cache
+D:\dev\tools\SharpNLP\OpenNLP\Lithium\obj\Debug\Netron.Lithium.LithiumControl.resources
+D:\dev\tools\SharpNLP\OpenNLP\Lithium\obj\Debug\Lithium.csproj.GenerateResource.Cache
+D:\dev\tools\SharpNLP\OpenNLP\Lithium\obj\Debug\Lithium.dll
+D:\dev\tools\SharpNLP\OpenNLP\Lithium\obj\Debug\Lithium.pdb

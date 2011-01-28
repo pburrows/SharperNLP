@@ -1,0 +1,10 @@
+D:\dev\tools\SharpNLP\OpenNLP\OpenNLP\bin\Debug\OpenNLP.XML
+D:\dev\tools\SharpNLP\OpenNLP\OpenNLP\bin\Debug\OpenNLP.dll
+D:\dev\tools\SharpNLP\OpenNLP\OpenNLP\bin\Debug\OpenNLP.pdb
+D:\dev\tools\SharpNLP\OpenNLP\OpenNLP\bin\Debug\SharpEntropy.dll
+D:\dev\tools\SharpNLP\OpenNLP\OpenNLP\bin\Debug\SharpWordNet.dll
+D:\dev\tools\SharpNLP\OpenNLP\OpenNLP\bin\Debug\SharpWordNet.pdb
+D:\dev\tools\SharpNLP\OpenNLP\OpenNLP\bin\Debug\SharpEntropy.pdb
+D:\dev\tools\SharpNLP\OpenNLP\OpenNLP\obj\Debug\ResolveAssemblyReference.cache
+D:\dev\tools\SharpNLP\OpenNLP\OpenNLP\obj\Debug\OpenNLP.dll
+D:\dev\tools\SharpNLP\OpenNLP\OpenNLP\obj\Debug\OpenNLP.pdb

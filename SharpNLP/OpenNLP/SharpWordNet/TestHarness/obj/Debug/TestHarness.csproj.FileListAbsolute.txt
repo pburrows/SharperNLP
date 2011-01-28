@@ -1,0 +1,9 @@
+D:\dev\tools\SharpNLP\OpenNLP\SharpWordNet\TestHarness\bin\Debug\TestHarness.exe
+D:\dev\tools\SharpNLP\OpenNLP\SharpWordNet\TestHarness\bin\Debug\TestHarness.pdb
+D:\dev\tools\SharpNLP\OpenNLP\SharpWordNet\TestHarness\bin\Debug\SharpWordNet.dll
+D:\dev\tools\SharpNLP\OpenNLP\SharpWordNet\TestHarness\bin\Debug\SharpWordNet.pdb
+D:\dev\tools\SharpNLP\OpenNLP\SharpWordNet\TestHarness\obj\Debug\ResolveAssemblyReference.cache
+D:\dev\tools\SharpNLP\OpenNLP\SharpWordNet\TestHarness\obj\Debug\TestHarness.WordNetBrowser.resources
+D:\dev\tools\SharpNLP\OpenNLP\SharpWordNet\TestHarness\obj\Debug\TestHarness.csproj.GenerateResource.Cache
+D:\dev\tools\SharpNLP\OpenNLP\SharpWordNet\TestHarness\obj\Debug\TestHarness.exe
+D:\dev\tools\SharpNLP\OpenNLP\SharpWordNet\TestHarness\obj\Debug\TestHarness.pdb
