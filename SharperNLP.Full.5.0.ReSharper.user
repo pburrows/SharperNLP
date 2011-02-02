@@ -8,9 +8,69 @@
   </SettingsComponent>
   <RecentFiles>
     <RecentFiles>
-      <File id="19A1DDC0-9EE7-46D1-9EA4-3F8D274FAE3F/f:Converter.cs" caret="0" fromTop="0" />
+      <File id="934651BD-C536-4241-B324-97CFF1F31875/d:Model/f:FileEventStream.cs" caret="0" fromTop="0" />
+      <File id="934651BD-C536-4241-B324-97CFF1F31875/d:Model/f:GenericModelReader.cs" caret="0" fromTop="0" />
+      <File id="934651BD-C536-4241-B324-97CFF1F31875/d:Model/f:GenericModelWriter.cs" caret="0" fromTop="0" />
+      <File id="934651BD-C536-4241-B324-97CFF1F31875/d:Model/f:IndexHashTable.cs" caret="0" fromTop="0" />
+      <File id="934651BD-C536-4241-B324-97CFF1F31875/d:Model/f:MaxentModel.cs" caret="0" fromTop="0" />
+      <File id="934651BD-C536-4241-B324-97CFF1F31875/d:Model/f:MutableContext.cs" caret="0" fromTop="0" />
+      <File id="934651BD-C536-4241-B324-97CFF1F31875/d:Model/f:ObjectDataReader.cs" caret="0" fromTop="0" />
+      <File id="934651BD-C536-4241-B324-97CFF1F31875/d:Model/f:OnePassDataIndexer.cs" caret="0" fromTop="0" />
+      <File id="934651BD-C536-4241-B324-97CFF1F31875/d:Model/f:OnePassRealValueDataIndexer.cs" caret="0" fromTop="0" />
+      <File id="934651BD-C536-4241-B324-97CFF1F31875/d:Model/f:PlainTextFileDataReader.cs" caret="0" fromTop="0" />
+      <File id="934651BD-C536-4241-B324-97CFF1F31875/d:Model/f:Prior.cs" caret="0" fromTop="0" />
+      <File id="934651BD-C536-4241-B324-97CFF1F31875/d:Model/f:RealValueFileEventStream.cs" caret="0" fromTop="0" />
+      <File id="934651BD-C536-4241-B324-97CFF1F31875/d:Model/f:SequenceStream.cs" caret="0" fromTop="0" />
+      <File id="934651BD-C536-4241-B324-97CFF1F31875/d:Model/f:SequenceStreamEventStream.cs" caret="0" fromTop="0" />
+      <File id="934651BD-C536-4241-B324-97CFF1F31875/d:Model/f:TwoPassDataIndexer.cs" caret="0" fromTop="0" />
+      <File id="934651BD-C536-4241-B324-97CFF1F31875/d:Model/f:UniformPrior.cs" caret="0" fromTop="0" />
+      <File id="934651BD-C536-4241-B324-97CFF1F31875/d:Model/f:Sequence.cs" caret="0" fromTop="0" />
+      <File id="934651BD-C536-4241-B324-97CFF1F31875/d:Perceptron/f:BinaryPerceptronModelReader.cs" caret="0" fromTop="0" />
+      <File id="934651BD-C536-4241-B324-97CFF1F31875/d:Perceptron/f:BinaryPerceptronModelWriter.cs" caret="0" fromTop="0" />
+      <File id="934651BD-C536-4241-B324-97CFF1F31875/d:Perceptron/f:PerceptronModel.cs" caret="0" fromTop="0" />
+      <File id="934651BD-C536-4241-B324-97CFF1F31875/d:Perceptron/f:PerceptronModelReader.cs" caret="0" fromTop="0" />
+      <File id="934651BD-C536-4241-B324-97CFF1F31875/d:Perceptron/f:PerceptronModelWriter.cs" caret="0" fromTop="0" />
+      <File id="934651BD-C536-4241-B324-97CFF1F31875/d:Perceptron/f:PerceptronTrainer.cs" caret="0" fromTop="0" />
+      <File id="934651BD-C536-4241-B324-97CFF1F31875/d:Perceptron/f:PlainTextPerceptronModelReader.cs" caret="0" fromTop="0" />
+      <File id="934651BD-C536-4241-B324-97CFF1F31875/d:Perceptron/f:PlainTextPerceptronModelWriter.cs" caret="0" fromTop="0" />
+      <File id="934651BD-C536-4241-B324-97CFF1F31875/d:Perceptron/f:SimplePerceptronSequenceTrainer.cs" caret="0" fromTop="0" />
+      <File id="934651BD-C536-4241-B324-97CFF1F31875/d:Perceptron/f:SuffixSensitivePerceptronModelWriter.cs" caret="0" fromTop="0" />
+      <File id="7BD4879E-E13D-4AEA-8AA5-95D148BE598E/d:MaxEnt/f:RealValueModelTest.cs" caret="0" fromTop="0" />
+      <File id="7BD4879E-E13D-4AEA-8AA5-95D148BE598E/d:MaxEnt/d:Io/f:RealValueFileEventStreamTest.cs" caret="0" fromTop="0" />
+      <File id="7BD4879E-E13D-4AEA-8AA5-95D148BE598E/d:Model/f:IndexHashTableTest.cs" caret="0" fromTop="0" />
     </RecentFiles>
-    <RecentEdits />
+    <RecentEdits>
+      <File id="934651BD-C536-4241-B324-97CFF1F31875/d:Model/f:EventCollectorAsStream.cs" caret="0" fromTop="0" />
+      <File id="934651BD-C536-4241-B324-97CFF1F31875/d:Model/f:EventStream.cs" caret="0" fromTop="0" />
+      <File id="934651BD-C536-4241-B324-97CFF1F31875/d:Model/f:FileEventStream.cs" caret="0" fromTop="0" />
+      <File id="934651BD-C536-4241-B324-97CFF1F31875/d:Model/f:GenericModelReader.cs" caret="0" fromTop="0" />
+      <File id="934651BD-C536-4241-B324-97CFF1F31875/d:Model/f:GenericModelWriter.cs" caret="0" fromTop="0" />
+      <File id="934651BD-C536-4241-B324-97CFF1F31875/d:Model/f:IndexHashTable.cs" caret="0" fromTop="0" />
+      <File id="934651BD-C536-4241-B324-97CFF1F31875/d:Model/f:MaxentModel.cs" caret="0" fromTop="0" />
+      <File id="934651BD-C536-4241-B324-97CFF1F31875/d:Model/f:MutableContext.cs" caret="0" fromTop="0" />
+      <File id="934651BD-C536-4241-B324-97CFF1F31875/d:Model/f:ObjectDataReader.cs" caret="0" fromTop="0" />
+      <File id="934651BD-C536-4241-B324-97CFF1F31875/d:Model/f:OnePassDataIndexer.cs" caret="0" fromTop="0" />
+      <File id="934651BD-C536-4241-B324-97CFF1F31875/d:Model/f:OnePassRealValueDataIndexer.cs" caret="0" fromTop="0" />
+      <File id="934651BD-C536-4241-B324-97CFF1F31875/d:Model/f:PlainTextFileDataReader.cs" caret="0" fromTop="0" />
+      <File id="934651BD-C536-4241-B324-97CFF1F31875/d:Model/f:Prior.cs" caret="0" fromTop="0" />
+      <File id="934651BD-C536-4241-B324-97CFF1F31875/d:Model/f:RealValueFileEventStream.cs" caret="0" fromTop="0" />
+      <File id="934651BD-C536-4241-B324-97CFF1F31875/d:Model/f:SequenceStream.cs" caret="0" fromTop="0" />
+      <File id="934651BD-C536-4241-B324-97CFF1F31875/d:Model/f:SequenceStreamEventStream.cs" caret="0" fromTop="0" />
+      <File id="934651BD-C536-4241-B324-97CFF1F31875/d:Model/f:TwoPassDataIndexer.cs" caret="0" fromTop="0" />
+      <File id="934651BD-C536-4241-B324-97CFF1F31875/d:Model/f:Sequence.cs" caret="0" fromTop="0" />
+      <File id="934651BD-C536-4241-B324-97CFF1F31875/d:Perceptron/f:BinaryPerceptronModelReader.cs" caret="0" fromTop="0" />
+      <File id="934651BD-C536-4241-B324-97CFF1F31875/d:Perceptron/f:BinaryPerceptronModelWriter.cs" caret="0" fromTop="0" />
+      <File id="934651BD-C536-4241-B324-97CFF1F31875/d:Perceptron/f:PerceptronModel.cs" caret="0" fromTop="0" />
+      <File id="934651BD-C536-4241-B324-97CFF1F31875/d:Perceptron/f:PerceptronModelReader.cs" caret="0" fromTop="0" />
+      <File id="934651BD-C536-4241-B324-97CFF1F31875/d:Perceptron/f:PerceptronModelWriter.cs" caret="0" fromTop="0" />
+      <File id="934651BD-C536-4241-B324-97CFF1F31875/d:Perceptron/f:PerceptronTrainer.cs" caret="0" fromTop="0" />
+      <File id="934651BD-C536-4241-B324-97CFF1F31875/d:Perceptron/f:PlainTextPerceptronModelReader.cs" caret="0" fromTop="0" />
+      <File id="934651BD-C536-4241-B324-97CFF1F31875/d:Perceptron/f:PlainTextPerceptronModelWriter.cs" caret="0" fromTop="0" />
+      <File id="934651BD-C536-4241-B324-97CFF1F31875/d:Perceptron/f:SimplePerceptronSequenceTrainer.cs" caret="0" fromTop="0" />
+      <File id="934651BD-C536-4241-B324-97CFF1F31875/d:Perceptron/f:SuffixSensitivePerceptronModelWriter.cs" caret="0" fromTop="0" />
+      <File id="7BD4879E-E13D-4AEA-8AA5-95D148BE598E/d:MaxEnt/f:RealValueModelTest.cs" caret="0" fromTop="0" />
+      <File id="7BD4879E-E13D-4AEA-8AA5-95D148BE598E/d:MaxEnt/d:Io/f:RealValueFileEventStreamTest.cs" caret="0" fromTop="0" />
+    </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
     <NAntPath value="" />

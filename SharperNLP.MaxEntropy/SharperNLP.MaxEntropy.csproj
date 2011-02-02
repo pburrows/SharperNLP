@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{934651BD-C536-4241-B324-97CFF1F31875}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SharperNLP.MaxEntropy</RootNamespace>
+    <AssemblyName>SharperNLP.MaxEntropy</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MaxEnt\BasicContextGenerator.cs" />
+    <Compile Include="MaxEnt\BasicEventStream.cs" />
+    <Compile Include="MaxEnt\BinToAscii.cs" />
+    <Compile Include="MaxEnt\ContextGenerator.cs" />
+    <Compile Include="MaxEnt\Counter.cs" />
+    <Compile Include="MaxEnt\DataStream.cs" />
+    <Compile Include="MaxEnt\DomainToModelMap.cs" />
+    <Compile Include="MaxEnt\Evalable.cs" />
+    <Compile Include="MaxEnt\GIS.cs" />
+    <Compile Include="MaxEnt\GISModel.cs" />
+    <Compile Include="MaxEnt\GISTrainer.cs" />
+    <Compile Include="MaxEnt\IntegerPool.cs" />
+    <Compile Include="MaxEnt\Io\BinaryGISModelReader.cs" />
+    <Compile Include="MaxEnt\Io\BinaryGISModelWriter.cs" />
+    <Compile Include="MaxEnt\Io\BinToAscii.cs" />
+    <Compile Include="MaxEnt\Io\GISModelReader.cs" />
+    <Compile Include="MaxEnt\Io\GISModelWriter.cs" />
+    <Compile Include="MaxEnt\Io\ObjectGISModelReader.cs" />
+    <Compile Include="MaxEnt\Io\ObjectGISModelWriter.cs" />
+    <Compile Include="MaxEnt\Io\OldFormatGISModelReader.cs" />
+    <Compile Include="MaxEnt\Io\PlainTextGISModelReader.cs" />
+    <Compile Include="MaxEnt\Io\PlainTextGISModelWriter.cs" />
+    <Compile Include="MaxEnt\Io\PooledGISModelReader.cs" />
+    <Compile Include="MaxEnt\Io\SuffixSensitiveGISModelReader.cs" />
+    <Compile Include="MaxEnt\Io\SuffixSensitiveGISModelWriter.cs" />
+    <Compile Include="MaxEnt\Main.cs" />
+    <Compile Include="MaxEnt\ModelApplier.cs" />
+    <Compile Include="MaxEnt\ModelDomain.cs" />
+    <Compile Include="MaxEnt\ModelReplacementManager.cs" />
+    <Compile Include="MaxEnt\ModelSetter.cs" />
+    <Compile Include="MaxEnt\ModelTrainer.cs" />
+    <Compile Include="MaxEnt\PlainTextByLineDataStream.cs" />
+    <Compile Include="MaxEnt\RealBasicEventStream.cs" />
+    <Compile Include="MaxEnt\TrainEval.cs" />
+    <Compile Include="Model\AbstractDataIndexer.cs" />
+    <Compile Include="Model\AbstractEventStream.cs" />
+    <Compile Include="Model\AbstractModel.cs" />
+    <Compile Include="Model\AbstractModelReader.cs" />
+    <Compile Include="Model\AbstractModelWriter.cs" />
+    <Compile Include="Model\BinaryFileDataReader.cs" />
+    <Compile Include="Model\ComparableEvent.cs" />
+    <Compile Include="Model\ComparablePredicate.cs" />
+    <Compile Include="Model\Context.cs" />
+    <Compile Include="Model\DataIndexer.cs" />
+    <Compile Include="Model\DataReader.cs" />
+    <Compile Include="Model\DynamicEvalParameters.cs" />
+    <Compile Include="Model\EvalParameters.cs" />
+    <Compile Include="Model\Event.cs" />
+    <Compile Include="Model\EventCollector.cs" />
+    <Compile Include="Model\EventCollectorAsStream.cs" />
+    <Compile Include="Model\EventStream.cs" />
+    <Compile Include="Model\FileEventStream.cs" />
+    <Compile Include="Model\GenericModelReader.cs" />
+    <Compile Include="Model\GenericModelWriter.cs" />
+    <Compile Include="Model\IndexHashTable.cs" />
+    <Compile Include="Model\MaxentModel.cs" />
+    <Compile Include="Model\MutableContext.cs" />
+    <Compile Include="Model\ObjectDataReader.cs" />
+    <Compile Include="Model\OnePassDataIndexer.cs" />
+    <Compile Include="Model\OnePassRealValueDataIndexer.cs" />
+    <Compile Include="Model\PlainTextFileDataReader.cs" />
+    <Compile Include="Model\Prior.cs" />
+    <Compile Include="Model\RealValueFileEventStream.cs" />
+    <Compile Include="Model\Sequence.cs" />
+    <Compile Include="Model\SequenceStream.cs" />
+    <Compile Include="Model\SequenceStreamEventStream.cs" />
+    <Compile Include="Model\TwoPassDataIndexer.cs" />
+    <Compile Include="Model\UniformPrior.cs" />
+    <Compile Include="Perceptron\BinaryPerceptronModelReader.cs" />
+    <Compile Include="Perceptron\BinaryPerceptronModelWriter.cs" />
+    <Compile Include="Perceptron\PerceptronModel.cs" />
+    <Compile Include="Perceptron\PerceptronModelReader.cs" />
+    <Compile Include="Perceptron\PerceptronModelWriter.cs" />
+    <Compile Include="Perceptron\PerceptronTrainer.cs" />
+    <Compile Include="Perceptron\PlainTextPerceptronModelReader.cs" />
+    <Compile Include="Perceptron\PlainTextPerceptronModelWriter.cs" />
+    <Compile Include="Perceptron\SimplePerceptronSequenceTrainer.cs" />
+    <Compile Include="Perceptron\SuffixSensitivePerceptronModelWriter.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="MaxEnt\AllEnglishAffixes.txt" />
+    <Content Include="MaxEnt\Io\package.html" />
+    <Content Include="MaxEnt\package.html" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="MaxEnt\GISFormat.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
