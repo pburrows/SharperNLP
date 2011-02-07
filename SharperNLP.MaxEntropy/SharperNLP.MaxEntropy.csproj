@@ -43,7 +43,7 @@
     <Compile Include="MaxEnt\BasicContextGenerator.cs" />
     <Compile Include="MaxEnt\BasicEventStream.cs" />
     <Compile Include="MaxEnt\BinToAscii.cs" />
-    <Compile Include="MaxEnt\ContextGenerator.cs" />
+    <Compile Include="MaxEnt\IContextGenerator.cs" />
     <Compile Include="MaxEnt\Counter.cs" />
     <Compile Include="MaxEnt\DataStream.cs" />
     <Compile Include="MaxEnt\DomainToModelMap.cs" />
