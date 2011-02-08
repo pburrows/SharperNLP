@@ -45,7 +45,7 @@
     <Compile Include="MaxEnt\BinToAscii.cs" />
     <Compile Include="MaxEnt\IContextGenerator.cs" />
     <Compile Include="MaxEnt\Counter.cs" />
-    <Compile Include="MaxEnt\DataStream.cs" />
+    <Compile Include="MaxEnt\IDataStream.cs" />
     <Compile Include="MaxEnt\DomainToModelMap.cs" />
     <Compile Include="MaxEnt\Evalable.cs" />
     <Compile Include="MaxEnt\GIS.cs" />
@@ -90,7 +90,7 @@
     <Compile Include="Model\Event.cs" />
     <Compile Include="Model\EventCollector.cs" />
     <Compile Include="Model\EventCollectorAsStream.cs" />
-    <Compile Include="Model\EventStream.cs" />
+    <Compile Include="Model\IEventStream.cs" />
     <Compile Include="Model\FileEventStream.cs" />
     <Compile Include="Model\GenericModelReader.cs" />
     <Compile Include="Model\GenericModelWriter.cs" />
