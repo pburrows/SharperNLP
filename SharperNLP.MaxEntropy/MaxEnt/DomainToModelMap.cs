@@ -17,7 +17,7 @@ namespace SharperNLP.MaxEntropy.MaxEnt
         #region Fields
 
         private ReaderWriterLockSlim _lock = new ReaderWriterLockSlim();
-        private Dictionary<IModelDomain, MaxentModel> _map = new Dictionary<IModelDomain, MaxentModel>();
+        private Dictionary<IModelDomain, IMaxentModel> _map = new Dictionary<IModelDomain, IMaxentModel>();
 
         #endregion
 
@@ -45,8 +45,8 @@ namespace SharperNLP.MaxEntropy.MaxEnt
         /// Sets the model for the given domain.
         /// </summary>
         /// <param name="domain">The <see cref="MaxEnt.IModelDomain"/> object which keys to the model.</param>
-        /// <param name="model">The <see cref="Model.MaxentModel"/> trained for the domain.</param>
-        public void SetModelForDomain(IModelDomain domain, MaxentModel model)
+        /// <param name="model">The <see cref="Model.IMaxentModel"/> trained for the domain.</param>
+        public void SetModelForDomain(IModelDomain domain, IMaxentModel model)
         {
             _lock.EnterWriteLock();
             _map.Add(domain, model);
@@ -57,10 +57,10 @@ namespace SharperNLP.MaxEntropy.MaxEnt
         /// Gets the model mapped to the given domain.
         /// </summary>
         /// <param name="domain">The domain object which keys to the desired model..</param>
-        /// <returns>The <see cref="Model.MaxentModel"/> corresponding to the given domain.</returns>
-        public MaxentModel GetModel(IModelDomain domain)
+        /// <returns>The <see cref="Model.IMaxentModel"/> corresponding to the given domain.</returns>
+        public IMaxentModel GetModel(IModelDomain domain)
         {
-            MaxentModel result = null;
+            IMaxentModel result = null;
             _lock.EnterReadLock();
             bool mapContainsKey = _map.ContainsKey(domain);
             if (mapContainsKey)

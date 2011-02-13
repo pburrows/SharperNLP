@@ -95,7 +95,7 @@
     <Compile Include="Model\GenericModelReader.cs" />
     <Compile Include="Model\GenericModelWriter.cs" />
     <Compile Include="Model\IndexHashTable.cs" />
-    <Compile Include="Model\MaxentModel.cs" />
+    <Compile Include="Model\IMaxentModel.cs" />
     <Compile Include="Model\MutableContext.cs" />
     <Compile Include="Model\ObjectDataReader.cs" />
     <Compile Include="Model\OnePassDataIndexer.cs" />
