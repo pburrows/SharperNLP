@@ -47,7 +47,7 @@
     <Compile Include="MaxEnt\Counter.cs" />
     <Compile Include="MaxEnt\IDataStream.cs" />
     <Compile Include="MaxEnt\DomainToModelMap.cs" />
-    <Compile Include="MaxEnt\Evalable.cs" />
+    <Compile Include="MaxEnt\IEvalable.cs" />
     <Compile Include="MaxEnt\GIS.cs" />
     <Compile Include="MaxEnt\GISModel.cs" />
     <Compile Include="MaxEnt\GISTrainer.cs" />
