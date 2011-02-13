@@ -88,7 +88,7 @@
     <Compile Include="Model\DynamicEvalParameters.cs" />
     <Compile Include="Model\EvalParameters.cs" />
     <Compile Include="Model\Event.cs" />
-    <Compile Include="Model\EventCollector.cs" />
+    <Compile Include="Model\IEventCollector.cs" />
     <Compile Include="Model\EventCollectorAsStream.cs" />
     <Compile Include="Model\IEventStream.cs" />
     <Compile Include="Model\FileEventStream.cs" />
