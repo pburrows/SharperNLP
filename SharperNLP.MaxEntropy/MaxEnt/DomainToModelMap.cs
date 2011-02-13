@@ -17,7 +17,7 @@ namespace SharperNLP.MaxEntropy.MaxEnt
         #region Fields
 
         private ReaderWriterLockSlim _lock = new ReaderWriterLockSlim();
-        private Dictionary<ModelDomain, MaxentModel> _map = new Dictionary<ModelDomain, MaxentModel>();
+        private Dictionary<IModelDomain, MaxentModel> _map = new Dictionary<IModelDomain, MaxentModel>();
 
         #endregion
 
@@ -26,12 +26,12 @@ namespace SharperNLP.MaxEntropy.MaxEnt
         /// <summary>
         /// Gets the keys of the current map.
         /// </summary>
-        public HashSet<ModelDomain> Keys
+        public HashSet<IModelDomain> Keys
         {
             get
             {
                 _lock.EnterReadLock();
-                HashSet<ModelDomain> hashSet = new HashSet<ModelDomain>(_map.Keys);
+                HashSet<IModelDomain> hashSet = new HashSet<IModelDomain>(_map.Keys);
                 _lock.ExitReadLock();
                 return hashSet;
             }
@@ -44,9 +44,9 @@ namespace SharperNLP.MaxEntropy.MaxEnt
         /// <summary>
         /// Sets the model for the given domain.
         /// </summary>
-        /// <param name="domain">The <see cref="MaxEnt.ModelDomain"/> object which keys to the model.</param>
+        /// <param name="domain">The <see cref="MaxEnt.IModelDomain"/> object which keys to the model.</param>
         /// <param name="model">The <see cref="Model.MaxentModel"/> trained for the domain.</param>
-        public void SetModelForDomain(ModelDomain domain, MaxentModel model)
+        public void SetModelForDomain(IModelDomain domain, MaxentModel model)
         {
             _lock.EnterWriteLock();
             _map.Add(domain, model);
@@ -58,7 +58,7 @@ namespace SharperNLP.MaxEntropy.MaxEnt
         /// </summary>
         /// <param name="domain">The domain object which keys to the desired model..</param>
         /// <returns>The <see cref="Model.MaxentModel"/> corresponding to the given domain.</returns>
-        public MaxentModel GetModel(ModelDomain domain)
+        public MaxentModel GetModel(IModelDomain domain)
         {
             MaxentModel result = null;
             _lock.EnterReadLock();
@@ -76,10 +76,10 @@ namespace SharperNLP.MaxEntropy.MaxEnt
         }
 
         /// <summary>
-        /// Removes the mapping for this <see cref="MaxEnt.ModelDomain"/> key from the map if present.
+        /// Removes the mapping for this <see cref="MaxEnt.IModelDomain"/> key from the map if present.
         /// </summary>
         /// <param name="domain">The key whose mapping is to be removed from the map.</param>
-        public void RemoveDomain(ModelDomain domain)
+        public void RemoveDomain(IModelDomain domain)
         {
             _lock.EnterWriteLock();
             _map.Remove(domain);
