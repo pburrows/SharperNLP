@@ -5,7 +5,7 @@ using System.Text;
 
 namespace SharperNLP.MaxEntropy.Model
 {
-    class MaxentModel
+    public class MaxentModel
     {
     }
 }
