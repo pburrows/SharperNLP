@@ -67,7 +67,7 @@
     <Compile Include="MaxEnt\Io\SuffixSensitiveGISModelWriter.cs" />
     <Compile Include="MaxEnt\Main.cs" />
     <Compile Include="MaxEnt\ModelApplier.cs" />
-    <Compile Include="MaxEnt\ModelDomain.cs" />
+    <Compile Include="MaxEnt\IModelDomain.cs" />
     <Compile Include="MaxEnt\ModelReplacementManager.cs" />
     <Compile Include="MaxEnt\ModelSetter.cs" />
     <Compile Include="MaxEnt\ModelTrainer.cs" />
