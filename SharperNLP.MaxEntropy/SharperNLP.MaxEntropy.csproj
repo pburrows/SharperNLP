@@ -101,7 +101,7 @@
     <Compile Include="Model\OnePassDataIndexer.cs" />
     <Compile Include="Model\OnePassRealValueDataIndexer.cs" />
     <Compile Include="Model\PlainTextFileDataReader.cs" />
-    <Compile Include="Model\Prior.cs" />
+    <Compile Include="Model\IPrior.cs" />
     <Compile Include="Model\RealValueFileEventStream.cs" />
     <Compile Include="Model\Sequence.cs" />
     <Compile Include="Model\SequenceStream.cs" />
