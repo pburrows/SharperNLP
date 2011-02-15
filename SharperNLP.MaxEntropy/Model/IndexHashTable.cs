@@ -59,23 +59,45 @@ namespace SharperNLP.MaxEntropy.Model
 
         #endregion
 
-        #region Public Methods
+        #region Properties
+
+        /// <summary>
+        /// Gets the number of elements in the map.
+        /// </summary>
+        public int Size
+        {
+            get
+            {
+                return _size;
+            }
+        }
+
+        #endregion
+
+        #region Indexers
 
         /// <summary>
         /// Retrieves the index for the specified key.
         /// </summary>
         /// <param name="key">The key.</param>
         /// <returns>The index of the key or -1 if there is no entry to the key.</returns>
-        public int Get(T key)
+        public int this[T key]
         {
-            int startIndex = GetIndexForHash(key.GetHashCode(), _keys.Length);
-            int index = SearchKey(startIndex, key, false);
-            if (index != -1)
+            get
             {
-                return _values[index];
+                int startIndex = GetIndexForHash(key.GetHashCode(), _keys.Length);
+                int index = SearchKey(startIndex, key, false);
+                if (index != -1)
+                {
+                    return _values[index];
+                }
+                return -1;
             }
-            return -1;
         }
+
+        #endregion
+
+        #region Public Methods
 
         /// <summary>
         /// Converts the map to an array.
@@ -92,21 +114,6 @@ namespace SharperNLP.MaxEntropy.Model
                 }
             }
             return array;
-        }
-
-        #endregion
-
-        #region Properties
-
-        /// <summary>
-        /// Gets the number of elements in the map.
-        /// </summary>
-        public int Size
-        {
-            get
-            {
-                return _size;
-            }
         }
 
         #endregion
