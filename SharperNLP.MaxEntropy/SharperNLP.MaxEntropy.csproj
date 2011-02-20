@@ -104,7 +104,7 @@
     <Compile Include="Model\IPrior.cs" />
     <Compile Include="Model\RealValueFileEventStream.cs" />
     <Compile Include="Model\Sequence.cs" />
-    <Compile Include="Model\SequenceStream.cs" />
+    <Compile Include="Model\ISequenceStream.cs" />
     <Compile Include="Model\SequenceStreamEventStream.cs" />
     <Compile Include="Model\TwoPassDataIndexer.cs" />
     <Compile Include="Model\UniformPrior.cs" />

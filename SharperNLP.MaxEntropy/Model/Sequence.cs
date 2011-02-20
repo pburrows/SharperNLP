@@ -37,7 +37,7 @@ namespace SharperNLP.MaxEntropy.Model
         /// <summary>
         /// Gets the object from which this sequence can be derived.
         /// This object is used when the events for this sequence need to be re-derived such as in a call to 
-        /// <see cref="SequenceStream.UpdateContext"/>.
+        /// <see cref="ISequenceStream.UpdateContext"/>.
         /// </summary>
         public T Source { get; private set; }
 
