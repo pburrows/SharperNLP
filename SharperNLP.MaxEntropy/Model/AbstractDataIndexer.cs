@@ -85,15 +85,15 @@ namespace SharperNLP.MaxEntropy.Model
         /// labels should be inserted.
         /// </summary>
         /// <param name="labelToIndexMap">The label to index map.</param>
-        /// <returns>A <see cref="System.Collections.ObjectModel.ReadOnlyCollection"/> of strings.</returns>
-        protected static ReadOnlyCollection<string> ToIndexedStringArray(IDictionary<string, int> labelToIndexMap)
+        /// <returns>An array of strings.</returns>
+        protected static string[] ToIndexedStringArray(IDictionary<string, int> labelToIndexMap)
         {
             List<string> list = new List<string>(labelToIndexMap.Count);
             foreach (var label in labelToIndexMap.Keys)
             {
                 list[labelToIndexMap[label]] = label;
             }
-            return new ReadOnlyCollection<string>(list);
+            return list.ToArray();
         }
 
         #endregion
