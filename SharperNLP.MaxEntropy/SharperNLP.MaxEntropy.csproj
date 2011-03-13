@@ -84,7 +84,7 @@
     <Compile Include="Model\ComparablePredicate.cs" />
     <Compile Include="Model\Context.cs" />
     <Compile Include="Model\IDataIndexer.cs" />
-    <Compile Include="Model\DataReader.cs" />
+    <Compile Include="Model\IDataReader.cs" />
     <Compile Include="Model\DynamicEvalParameters.cs" />
     <Compile Include="Model\EvalParameters.cs" />
     <Compile Include="Model\Event.cs" />
